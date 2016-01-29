@@ -17,7 +17,7 @@ dismathportfolio-anna-tabalan created by Classroom for GitHub
     -My least favorite would have to Biconditionals.
 - After the truth tables, we were also "introduced" to the words Antecedent and Consequent.
 - Thereafter, we were taught about:
-  - Converse (q→p ≠ p→q)
+  - Converse (q→p ≠ p→q) 
   - Inverse (¬p→¬q)
   - Contrapositive (¬q→¬p)
 
