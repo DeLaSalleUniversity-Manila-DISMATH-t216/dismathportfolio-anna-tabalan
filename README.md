@@ -53,3 +53,29 @@ dismathportfolio-anna-tabalan created by Classroom for GitHub
     - These are new concepts and just like in the Logical Equivalences, even though I am quite confused at first, with some practice I'm sure I'll understand it more.
 
 #Week 3:
+- Our lesson for the 3rd week is about the Methods of Proof, namely:
+  - Direct Proof
+  - Proof by Contraposition
+  - Proof by Contradiction
+  - Vacuous and Trivial proof
+- Direct Proof
+  - Assume P is true, then show that Q is true.
+- Proof by Contraposition
+  - Assume ¬q is true, then show that ¬p is true.
+- Proof by Contradiction
+  - Assume ¬p is true, then show that ¬q is true.
+- Vacuous and Trivial proof
+  - Vacuous
+    - Show that P is false, because p→q must be true.
+  - Trivial 
+    - Show that Q is true,  q→p must be true.
+
+#Week 4:
+- For the 4th week, we discussed Proof by Equivalence (biconditional)
+  - show that p→q and q→p are both true. 
+- Also a new lesson, Mathematical Induction.
+  - P(1) is true
+  -  If P(k+1) is true whenever P(k) is true, then P is true for all positive integers.
+    - Basis and Inductive Step
+- Recursive Algorithm
+  - solves a problem by reducing it to an instance of the same problem with smaller input.
