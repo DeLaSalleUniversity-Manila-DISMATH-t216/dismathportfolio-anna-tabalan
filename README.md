@@ -79,3 +79,32 @@ dismathportfolio-anna-tabalan created by Classroom for GitHub
     - Basis and Inductive Step
 - Recursive Algorithm
   - solves a problem by reducing it to an instance of the same problem with smaller input.
+
+#Week 5
+- Discussed and reviewed Recursive Algorithm
+- Introduced to a new topic : Program Correctness 
+  - Program Verification
+  - Hoare Triple
+- Another topic : Power Series
+
+#Week 6
+- Started discussing Functions
+  - Different type of functions such as one-to-one (injective), onto (subjective) and correspondence (bijective)
+
+#Week 7
+- no classes
+
+#Week 8
+- New topic Algorithm : a finite set of precise instructions for performing a computation or for solving a problem.
+- Also discussed pseudocodes, basically a set of codes that are intended for human reading
+- Searching Algorithms 
+  - Linear
+  - Binary
+
+#Week 9
+- Different sorting algorithms
+  - Bubble sort : analyzes each element and interchanges them to sort
+  - Insertion sort : analyzes where in the set a certain element is needed to be inserted
+  - Greedy Algorithm
+  
+#Week 10
