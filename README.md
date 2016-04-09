@@ -1,6 +1,8 @@
 # Dismath Portfolio-A.T
 dismathportfolio-anna-tabalan created by Classroom for GitHub
 
+Anna tabalan, dismath EL
+
 #Week 1: 
 - I was introduced to a new and exciting subject.
 - I found it odd at first (I still do) but I also found it **very** interesting. 
@@ -79,7 +81,7 @@ dismathportfolio-anna-tabalan created by Classroom for GitHub
     - Basis and Inductive Step
 - Recursive Algorithm
   - solves a problem by reducing it to an instance of the same problem with smaller input.
-
+W
 #Week 5
 - Discussed and reviewed Recursive Algorithm
 - Introduced to a new topic : Program Correctness 
@@ -108,3 +110,24 @@ dismathportfolio-anna-tabalan created by Classroom for GitHub
   - Greedy Algorithm
   
 #Week 10
+- Growth of Functions
+ - Big-O Notation : used for upper bound
+ - Big-Omega Notation : used for lower bound
+ - Big-Theta Notation : used for lower and upper bound
+- Time complexity
+
+#Week 11
+- None
+
+#Week 12
+- Discussed graphs, vertices, edges, etc.
+- Introduced to graph terminologies such as Degree and Path
+- Discussed Euler Circuit and Path (must pass through all edges exactly once)
+- Handshake Theorem : the number of edges is the number of vertices multiplied to the number of degrees divided by 2.
+- Discussed Hamilton Circuit and Path (must pass through all nodes exactly once)
+- Discussed Isomorphic ices have one to one correspondence), Planar Graphs (no edges intersect), Kuratowski's Theorem (a graph is nonplanar if its subgraph is homeomorphic to a K3 or a K5 graph.
+
+#Week 13
+- Discussed trees : an undirected graph without a simple circuit
+- Graphs that are not connected are called forests.
+- Lesson about Graph coloring and Chromatic number of colors that can be used for a graph.
