@@ -131,3 +131,27 @@ W
 - Discussed trees : an undirected graph without a simple circuit
 - Graphs that are not connected are called forests.
 - Lesson about Graph coloring and Chromatic number of colors that can be used for a graph.
+
+#Additional Reading Assignments
+
+-Tree Traversal
+    process of visiting every element in a tree, exactly once
+-Spanning Trees
+    subgraph of a simple graph G that is a tree containing every vertex of G
+-Relations and Their Properties
+   -Reflexive Property - every element of A is connected to itself. It also contains pairs with the form (a,a) or (b,b) etc.
+   -Symmetric Property - a is related to b implies b is related to a. The relation also contains both (a,b) and (b,a).
+   -Transitive Property - contains the pairs (a,b), (b,c) and (a,c).
+-n-ary Relations and Applications
+   there are n elements involved in the relationship
+-Representing Relations
+   using zero-one matrices
+   using digraphs
+-Closures of Relations
+   -Reflexive Closure - addition of pairs of the form (a,a)
+   -Symmetric Closure - addition of pairs of the form (b,a)
+   -Transitive Closure - equals the connectivity relation
+-Equivalence Relations
+    A relation is considered an equivalence relation if it is symmetric, transitive and reflexive.
+-Partial Orderings
+    A relation is called a partial ordering if it is antisymmetric, transitive and reflexive.
